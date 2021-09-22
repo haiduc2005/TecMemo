@@ -1,4 +1,4 @@
-# 安装完python3环境后
+#### 安装完python3环境后
 ```
 wget https://bootstrap.pypa.io/get-pip.py
 python3 get-pip.py
