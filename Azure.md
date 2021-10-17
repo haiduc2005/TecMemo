@@ -10,4 +10,4 @@
 | URLベースルーティング                        | なし                      | あり                                  |
 | WAF機能                                      | なし                      | あり                                  |
 
-Application Gatewayがセッション保持できるし、コンテンツによりアクセスを分けることが可能。LBはできないし、SSL encryptionも計算しなおさないといけない
+Application Gatewayがセッション保持できるし、サイトのコンテンツによりアクセスを分けることが可能(URLにより制御)。LBはできないし、SSL encryptionも計算しなおさないといけない
