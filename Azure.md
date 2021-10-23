@@ -77,3 +77,6 @@ Azure DDoS Protectionは、分散型サービス拒否 (DDoS) 攻撃について
  * そこから基本サービスにはない機能を追加できるプランがStandardとなるわけです。  
 以下のページにも記載がありますが、ログやメトリック、アラート機能等を追加で利用できるようになります。実際にセキュリティ攻撃等を受けた際に、ログは重要な情報源となるため、セキュリティ対応を強化したい方は検討してみてはいかがでしょうか。  
 https://docs.microsoft.com/ja-jp/azure/ddos-protection/ddos-protection-overview
+
+#### GDPRは？  
+「EU一般データ保護規則」（GDPR：General Data Protection Regulation）とは、個人データ保護やその取り扱いについて詳細に定められたEU域内の各国に適用される法令のこと
