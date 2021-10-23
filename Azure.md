@@ -11,3 +11,8 @@
 | WAF機能                                      | なし                      | あり                                  |
 
 Application Gatewayがセッション保持できるし、サイトのコンテンツによりアクセスを分けることが可能(URLにより制御)。LBはできないし、SSL encryptionも計算しなおさないといけない
+
+#### DBの比較
+
+頻繫にアクセスしスピードが求められる場合：Azure SQL database, cosmos DB
+頻繫ではない場合：Data Lake, data-warehouse
