@@ -44,3 +44,5 @@ Azure Monitor の機能であり、開発者や DevOps プロフェッショナ�
 #### 検証環境を素早く構築できる「Azure DevTest Labs」とは？  
 Azure DevTest Labs とは、トレーニング目的で多数の仮想マシンを作成する必要がある時や、仮想マシンの停止/削除忘れによる出費に悩んでいる場合に効果があるサービスです。Azure DevTest Labs 自体は無料です。
 
+#### Azure Databricks
+最適化された Apache Spark でのビッグ データ分析および AI, ビッグ データによる機械学習を加速させる
