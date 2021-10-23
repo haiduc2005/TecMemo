@@ -14,5 +14,5 @@ Application Gatewayがセッション保持できるし、サイトのコンテ�
 
 #### DBの比較
 
-頻繫にアクセスしスピードが求められる場合：Azure SQL database, cosmos DB
+頻繫にアクセスしスピードが求められる場合：Azure SQL database, cosmos DB  
 頻繫ではない場合：Data Lake, data-warehouse
