@@ -61,3 +61,10 @@ Identity Protection は、組織が次の 3 つの主要なタスクを実行で
  * ID ベースのリスクの検出と修復を自動化します。
  * ポータルのデータを使用してリスクを調査します。
  * リスク検出データを SIEM にエクスポートします。
+
+#### Azure Information Protection とは:  
+お客様の会社の内外で、メール、ドキュメント、および機密データを制御し、セキュリティで保護する
+
+
+#### Microsoft Defender for Identity とは:  
+Microsoft Defender for Identity (旧称: Azure Advanced Threat Protection、Azure ATP とも呼ばれる) はクラウドベースのセキュリティ ソリューションであり、オンプレミスの Active Directory シグナルを利用して、組織を対象とする高度な脅威、侵害された ID、および悪意のあるインサイダーによるアクションの識別、検出、調査を行います。
