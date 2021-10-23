@@ -80,3 +80,6 @@ https://docs.microsoft.com/ja-jp/azure/ddos-protection/ddos-protection-overview
 
 #### GDPRは？  
 「EU一般データ保護規則」（GDPR：General Data Protection Regulation）とは、個人データ保護やその取り扱いについて詳細に定められたEU域内の各国に適用される法令のこと
+
+#### Azure Cost Management by Cloudyn:  
+Azure に Cost Management by Cloudyn が導入されました。本サービスは先般買収されたもので、マルチクラウド環境でのクラウドのコストを、組織で管理および最適化するのに役立ちます。本サービスは現在、Azure のすべてのユーザーとパートナーが利用できます。また、Azure と徐々に完全統合されます。ユーザーとパートナーは、2018 年 6 月 30 日まで、Azure Cost Management を使用して、無料で Azure のコストを管理できます。
