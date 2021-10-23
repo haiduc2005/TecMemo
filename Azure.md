@@ -83,3 +83,6 @@ https://docs.microsoft.com/ja-jp/azure/ddos-protection/ddos-protection-overview
 
 #### Azure Cost Management by Cloudyn:  
 Azure に Cost Management by Cloudyn が導入されました。本サービスは先般買収されたもので、マルチクラウド環境でのクラウドのコストを、組織で管理および最適化するのに役立ちます。本サービスは現在、Azure のすべてのユーザーとパートナーが利用できます。また、Azure と徐々に完全統合されます。ユーザーとパートナーは、2018 年 6 月 30 日まで、Azure Cost Management を使用して、無料で Azure のコストを管理できます。
+
+#### Azure サポートプラン premier  
+サポート料金は、月額102,000円です。 プレミア 大規模なAzure運用を想定した最上位のサポートプランです。 プロフェッショナル ダイレクトと同等のサポート内容に加え、専属の契約担当者を立てて対応に当たります。
